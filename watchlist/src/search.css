@@ -1,0 +1,43 @@
+.input {
+  border: 2px solid rgba(0, 112, 192, 0.5);
+}
+.input:focus {
+  border: 2px solid rgba(0, 112, 192, 0.5);
+  outline: none;
+}
+.add:hover {
+  cursor: pointer;
+  color: rgba(0, 112, 192, 0.5);
+}
+.add {
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.delete {
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.stockExchange {
+  width: fit-content;
+  height: fit-content;
+  background-color: #e5e5e5;
+  font-size: 14px;
+  color: #59595c;
+}
+
+.MuiTypography-body1
+  .MuiListItemText-primary
+  .css-10hburv-MuiTypography-root:single-button {
+  background-color: none;
+}
+.image {
+  margin-left: 20%;
+  margin-top: 5%;
+}
+.modal__buttons {
+  float: right;
+  position: sticky;
+  z-index: 1;
+}
