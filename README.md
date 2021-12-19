@@ -18,7 +18,7 @@
 - Vercel for deployment
 ---
 
-# Screenshots of pages :framed_picture:
+# Screenshots :framed_picture:
 
  - Search Results Pop up add button on search Results
 
