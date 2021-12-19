@@ -1,5 +1,5 @@
 import React from "react";
-import { data } from "./data.js";
+import { data } from "../data.js";
 import "./search.css";
 import { styled } from "@mui/material/styles";
 import MenuItem from "@mui/material/MenuItem";

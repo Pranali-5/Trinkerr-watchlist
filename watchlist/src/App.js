@@ -1,6 +1,6 @@
 import "./App.css";
-import { Search } from "./Search.jsx";
-import { Navbar } from "./Navbar.jsx";
+import { Search } from "./Components/Search.jsx";
+import { Navbar } from "./Components/Navbar.jsx";
 
 function App() {
   return (
