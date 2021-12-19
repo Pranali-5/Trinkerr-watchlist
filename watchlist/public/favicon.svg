@@ -1,0 +1,29 @@
+ <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="25"
+          height="25"
+          fill="none"
+        >
+          <rect
+            width="22.727"
+            height="22.727"
+            x="0.781"
+            y="1.136"
+            stroke="#000"
+            stroke-opacity="0.85"
+            stroke-width="1.563"
+            rx="1.814"
+          ></rect>
+          <path
+            fill="#000"
+            fill-opacity="0.85"
+            fill-rule="evenodd"
+            d="M14.542 5.668a.76.76 0 00-.759-.759h-8.47a.76.76 0 00-.758.76v3.275c0 .42.34.76.759.76h3.675c.42 0 .76.34.76.758v8.869c0 .42.34.76.758.76h3.276c.42 0 .76-.34.76-.76V5.668z"
+            clip-rule="evenodd"
+          ></path>
+          <path
+            fill="#000"
+            fill-opacity="0.85"
+            d="M15.342 5.668a.76.76 0 01.759-.759h3.276a.76.76 0 01.759.76v3.275c0 .42-.34.76-.76.76h-3.275a.76.76 0 01-.76-.76V5.668z"
+          ></path>
+        </svg>
